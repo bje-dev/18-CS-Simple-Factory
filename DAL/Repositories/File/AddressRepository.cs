@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 namespace DAL.Repositories.File
 {
     //Para el patron Factory ponemos la clase de los repositorios como INTERNAL
+    //Poniendo internal solo es accesible desde el dominio de la DAL.
     internal class AddressRepository : IGenericRepository<Address>
     {
         public void Add(Address obj)

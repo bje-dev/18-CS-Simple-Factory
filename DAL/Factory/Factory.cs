@@ -38,7 +38,7 @@ namespace DAL.Factory
      
         public IGenericRepository<Address> GetAddressRepository()
         {
-            string backend = ConfigurationManager.AppSettings["backend"];
+            
 
             if(backend == "SQL")
             {
