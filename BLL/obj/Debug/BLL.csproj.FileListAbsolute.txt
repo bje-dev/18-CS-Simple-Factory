@@ -1,0 +1,6 @@
+C:\Users\master\source\repos\18-CS-Simple-Factory\BLL\bin\Debug\BLL.dll
+C:\Users\master\source\repos\18-CS-Simple-Factory\BLL\bin\Debug\BLL.pdb
+C:\Users\master\source\repos\18-CS-Simple-Factory\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\master\source\repos\18-CS-Simple-Factory\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\18-CS-Simple-Factory\BLL\obj\Debug\BLL.dll
+C:\Users\master\source\repos\18-CS-Simple-Factory\BLL\obj\Debug\BLL.pdb

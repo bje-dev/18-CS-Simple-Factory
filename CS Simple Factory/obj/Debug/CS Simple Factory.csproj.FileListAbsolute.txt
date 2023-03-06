@@ -1,0 +1,12 @@
+C:\Users\master\source\repos\18-CS-Simple-Factory\CS Simple Factory\bin\Debug\CS Simple Factory.exe.config
+C:\Users\master\source\repos\18-CS-Simple-Factory\CS Simple Factory\bin\Debug\CS Simple Factory.exe
+C:\Users\master\source\repos\18-CS-Simple-Factory\CS Simple Factory\bin\Debug\CS Simple Factory.pdb
+C:\Users\master\source\repos\18-CS-Simple-Factory\CS Simple Factory\obj\Debug\CS Simple Factory.csprojAssemblyReference.cache
+C:\Users\master\source\repos\18-CS-Simple-Factory\CS Simple Factory\obj\Debug\CS Simple Factory.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\18-CS-Simple-Factory\CS Simple Factory\obj\Debug\CS Simple Factory.exe
+C:\Users\master\source\repos\18-CS-Simple-Factory\CS Simple Factory\obj\Debug\CS Simple Factory.pdb
+C:\Users\master\source\repos\18-CS-Simple-Factory\CS Simple Factory\bin\Debug\DAL.dll
+C:\Users\master\source\repos\18-CS-Simple-Factory\CS Simple Factory\bin\Debug\Domain.dll
+C:\Users\master\source\repos\18-CS-Simple-Factory\CS Simple Factory\bin\Debug\DAL.pdb
+C:\Users\master\source\repos\18-CS-Simple-Factory\CS Simple Factory\bin\Debug\Domain.pdb
+C:\Users\master\source\repos\18-CS-Simple-Factory\CS Simple Factory\obj\Debug\CS Simple Factory.csproj.CopyComplete

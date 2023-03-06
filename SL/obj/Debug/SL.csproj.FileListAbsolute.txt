@@ -1,0 +1,5 @@
+C:\Users\master\source\repos\18-CS-Simple-Factory\SL\bin\Debug\SL.dll
+C:\Users\master\source\repos\18-CS-Simple-Factory\SL\bin\Debug\SL.pdb
+C:\Users\master\source\repos\18-CS-Simple-Factory\SL\obj\Debug\SL.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\18-CS-Simple-Factory\SL\obj\Debug\SL.dll
+C:\Users\master\source\repos\18-CS-Simple-Factory\SL\obj\Debug\SL.pdb
