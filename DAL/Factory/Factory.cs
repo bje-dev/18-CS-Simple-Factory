@@ -18,6 +18,8 @@ namespace DAL.Factory
         {
             private readonly static Factory _instance = new Factory();
 
+        private readonly string backend; 
+
             public static Factory Current
             {
                 get
@@ -28,7 +30,7 @@ namespace DAL.Factory
 
             private Factory()
             {
-                //Implent here the initialization of your singleton
+            backend = ConfigurationManager.AppSettings["backend"];
             }
 
         //PARA DESACOPLAR LO MAS POSIBLE ESTE METODO ESTARA LIGADO A LO SETEADO EN APPCONFIG
